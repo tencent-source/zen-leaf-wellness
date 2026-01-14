@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chaism-matcha.com/sitemap.xml
